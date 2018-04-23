@@ -1,0 +1,70 @@
+body{
+	color:#f65;
+	background-color:#334;
+}
+
+a:link{
+	color:#4455;
+}
+
+a:visited{
+	color:#345;
+	background-color:#eb6;
+}
+
+a:hover{
+	color:#667;
+	background-color:#fb5;
+}
+
+a:active{
+	color:#778;
+	background-color:#ec8;
+}
+
+header{
+	color:#ec8;
+	background-color:#334;
+	boder-color:#667;
+}
+
+header nav{
+	color:#445;
+	background-color:#789;
+	boder-color:#667;
+}
+
+article{
+	color:#223;
+	background-color:#edc;
+	border-color:#667;
+}
+
+header nav ul{
+	border-color:#99a;
+}
+
+header nav a: link, header nav a: visited{
+	color:#eef;
+	background-color:transparent;
+	border-color:#99a;
+}
+
+header nav a: hover{
+	color: #445;
+	background-color:#eb6;
+}
+
+header nav a: active{
+	color:#667;
+	background-color:#ec8;
+}
+
+active img{
+	boder-color:#ba9;
+	outline:#dcb;
+}
+
+#imgegallery a{
+	background-color:transparent;
+}

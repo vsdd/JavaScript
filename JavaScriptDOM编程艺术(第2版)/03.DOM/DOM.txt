@@ -1,0 +1,15 @@
+文档：DOM中的“D”
+对象：DOM中的“O”
+模型：DOM中的“M”
+
+节点
+元素节点
+文本节点
+属性节点
+CSS(class属性 id属性)
+获取元素（getElementById getElementByTagName getElementByClassName）
+
+获取和设置属性
+getAttribute
+setAttribute
+
